@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Bharti Wagh 👋
 
-<!--
-**Bharti-wagh/Bharti-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Computer Science & Engineering (2025)
 
-Here are some ideas to get you started:
+💻 Python Developer passionate about building web applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skilled in:
+- Python
+- Flask
+- Django
+- MySQL
+- HTML, CSS, JavaScript
+- Data Analytics
+
+📚 Currently learning:
+- Advanced Django
+- REST APIs
+- Data Structures & Algorithms
+- Machine Learning
+
+🔨 Projects:
+- Personal Finance Tracker
+- Real-Time Chat Application
+- Payroll Management System (PaySphere)
+- Library Management System
+
+🌱 I believe in continuous learning and creating technology that makes a positive impact.
+
+📫 Connect with me:
+- GitHub: https://github.com/Bharti-wagh
+- LinkedIn: https://www.linkedin.com/in/bharti-wagh
+
+⭐ Open to Software Developer, Python Developer, and Data Analyst opportunities.
