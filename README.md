@@ -121,20 +121,13 @@ Python • Flask • MySQL
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharti-wagh&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-wagh&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharti-wagh&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-wagh&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bharti-wagh&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Bharti-wagh&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 ## 🤝 Connect With Me
 
