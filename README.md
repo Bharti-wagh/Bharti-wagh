@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+%7C+Django+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharti-wagh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 ---
 
 ## 👩‍💻 About Me
