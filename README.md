@@ -122,6 +122,7 @@ Python • Flask • MySQL
 💼 **LinkedIn:** https://www.linkedin.com/in/bharti-wagh
 
 🌐 **GitHub:** https://github.com/Bharti-wagh
+
 ---
 
 ## 💡 Quote
