@@ -86,12 +86,6 @@ Python • Flask • MySQL
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bharti-wagh&theme=github-dark&hide_border=true"/>
-</p>
-
 ## 🤝 Connect With Me
 
 📧 **Email:** bharatiwagh148@gmail.com
